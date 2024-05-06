@@ -1,0 +1,16 @@
+btnC - reset
+
+led[0] -  reg_7_out(0)
+led[1] -  reg_7_out(1)
+led[2] -  reg_7_out(2)
+led[3] -  reg_7_out(3)
+
+seven segment display - reg_7_out
+
+led[14] - zero
+led[15] - overflow
+
+expected behaviour
+
+        0 3 5 6 
+on seven seg. display

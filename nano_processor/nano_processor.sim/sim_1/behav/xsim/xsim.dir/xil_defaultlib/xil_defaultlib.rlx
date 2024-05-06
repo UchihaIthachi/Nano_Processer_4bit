@@ -1,0 +1,27 @@
+0.6
+2018.1
+Apr  4 2018
+19:30:32
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sim_1/new/TB_FA.vhd,1713963216,vhdl,,,,tb_fa,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sim_1/new/TB_HA.vhd,1713963019,vhdl,,,,tb_ha,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sim_1/new/TB_Nano_Processor_4.vhd,1713965249,vhdl,,,,tb_nano_processor_4,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/D_FF.vhd,1713964277,vhdl,,,,d_ff,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/Decoder_2_to_4.vhd,1713964618,vhdl,,,,decoder_2_to_4,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/Decoder_3_to_8.vhd,1713964645,vhdl,,,,decoder_3_to_8,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/FA.vhd,1713962523,vhdl,,,,fa,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/HA.vhd,1713962465,vhdl,,,,ha,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/Instruction_Decoder.vhd,1713964542,vhdl,,,,instruction_decoder,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/LUT_16_7.vhd,1713964862,vhdl,,,,lut_16_7,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/MUX_2_to_1.vhd,1713964409,vhdl,,,,mux_2_to_1,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/MUX_2_to_1_3bit.vhd,1713964432,vhdl,,,,mux_2_to_1_3bit,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/MUX_2_to_1_4bit.vhd,1713964585,vhdl,,,,mux_2_to_1_4bit,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/MUX_8_to_1.vhd,1713964769,vhdl,,,,mux_8_to_1,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/MUX_8_to_1_4bit.vhd,1713964787,vhdl,,,,mux_8_to_1_4bit,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/Nano_Processor_4bit.vhd,1713965117,vhdl,,,,nano_processor_4bit,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/PC_3.vhd,1713964370,vhdl,,,,pc_3,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/RCAS_4.vhd,1713964826,vhdl,,,,rcas_4,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/RCA_3.vhd,1713964466,vhdl,,,,rca_3,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/ROM_8_12.vhd,1713964509,vhdl,,,,rom_8_12,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/Reg_4.vhd,1713964884,vhdl,,,,reg_4,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/Reg_bank.vhd,1713964731,vhdl,,,,reg_bank,,,,,,,,
+C:/Users/User/Desktop/nano_processor/nano_processor.srcs/sources_1/new/Slow_CLK.vhd,1713965584,vhdl,,,,slow_clk,,,,,,,,
